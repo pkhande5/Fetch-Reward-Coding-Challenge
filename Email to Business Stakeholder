@@ -1,7 +1,7 @@
 Hello Everyone,
 
 Hope you all are doing good! I am writing this email in regards to the coding challenge for the Data Analyst position where I was given three JSON files 
-namely receipts, users, and brands.  These files contain specific information as the file name suggests. 
+namely receipts, users, and brands.  Each file contains unique information. 
 First, to analyze the zipped JSON file I used python to read, clean, and structure the data in a more user-friendly format. 
 After the data was cleaned there were a few key observations I would like to address:
 
