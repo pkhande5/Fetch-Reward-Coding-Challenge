@@ -1,2 +1,2 @@
 # Fetch-Reward-Coding-Challenge
-This is a coding challenge for the Data Analyst position
+As part of the challenge, we were supposed to perform four task. First three tasks are done using python in a single file ""and the last part includes a email to Business Stakeholder "".
