@@ -1,0 +1,15 @@
+Hello Everyone,
+
+Hope you all are doing good! I am writing this email in regards to the coding challenge for the Data Analyst position where I was given three JSON files 
+namely receipts, users, and brands.  These files contain specific information as the file name suggests. 
+First, to analyze the zipped JSON file I used python to read, clean, and structure the data in a more user-friendly format. 
+After the data was cleaned there were a few key observations I would like to address:
+
+•	Most of the data is stored in embedded dictionaries which require an extra step of data wrangling.
+•	While analyzing the UserID in the users' table there were multiple records of last login time and created time for the same user.
+•	There were a lot of receipts in the data that had brandcodes that did not exist in the brand's data.
+
+In conclusion, the above finding required a lot of assumptions. I’d be more than happy to discuss more my findings.
+Regards,
+Paresh
+
